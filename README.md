@@ -60,7 +60,7 @@ For any questions, suggestions, or feedback, feel free to reach out:
 
 - **Name:** Ibrahim Ambale  
 - **LinkedIn:** [Ibrahim Ambale](https://www.linkedin.com/in/ibrahim-ambale/)  
-- **GitHub:** [github.com/IbrahimAmbale](https://github.com/i-ambale)
+- **GitHub:** [Ibrahim Ambale](https://github.com/i-ambale)
 
 ---
 
