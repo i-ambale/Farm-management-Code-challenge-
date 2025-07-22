@@ -53,3 +53,15 @@ farm-harvest-management/
 
 ## ✍️ Author
 [Ibrahim Ambale](https://github.com/i-ambale)
+
+## 📬 Contact
+
+For any questions, suggestions, or feedback, feel free to reach out:
+
+- **Name:** Ibrahim Ambale  
+- **LinkedIn:** [linkedin.com/in/ibrahimambale](https://linkedin.com/in/ibrahimambale)  
+- **GitHub:** [github.com/IbrahimAmbale](https://github.com/IbrahimAmbale)
+
+---
+
+Feel free to fork the project, raise issues, or open pull requests. Happy coding! 🚀
