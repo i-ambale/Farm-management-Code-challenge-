@@ -52,15 +52,15 @@ farm-harvest-management/
 - Profit: $2500 - $500 = $2000
 
 ## ✍️ Author
-[Ibrahim Ambale](https://github.com/i-ambale)
+[Ibrahim Ambale](https://tikeyambale.wixsite.com/ibrahim-ambale)
 
 ## 📬 Contact
 
 For any questions, suggestions, or feedback, feel free to reach out:
 
 - **Name:** Ibrahim Ambale  
-- **LinkedIn:** [linkedin.com/in/ibrahimambale](https://linkedin.com/in/ibrahimambale)  
-- **GitHub:** [github.com/IbrahimAmbale](https://github.com/IbrahimAmbale)
+- **LinkedIn:** [linkedin.com/in/ibrahimambale](https://linkedin.com/in/ibrahimambale/)  
+- **GitHub:** [github.com/IbrahimAmbale](https://github.com/i-ambale))
 
 ---
 
