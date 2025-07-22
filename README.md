@@ -59,8 +59,8 @@ farm-harvest-management/
 For any questions, suggestions, or feedback, feel free to reach out:
 
 - **Name:** Ibrahim Ambale  
-- **LinkedIn:** [linkedin.com/in/ibrahimambale](https://linkedin.com/in/ibrahimambale/)  
-- **GitHub:** [github.com/IbrahimAmbale](https://github.com/i-ambale))
+- **LinkedIn:** [Ibrahim Ambale](https://www.linkedin.com/in/ibrahim-ambale/)  
+- **GitHub:** [github.com/IbrahimAmbale](https://github.com/i-ambale)
 
 ---
 
